@@ -1,0 +1,12 @@
+2026-10-31T19:46:48.719Z
+ — recorded before AI-run E1 measurements
+For reservation=0, CreateThread requests stack commit: 64 KiB should allow
+roughly 1,000–2,000 threads and 1,024 KiB roughly 100–125 threads, below the
+2,500 cap. The executable, heaps, thread bookkeeping, and other private
+allocations also consume the limit, so simple division is only an upper bound.
+For reservation=1, stack_kb determines address-space reservation, not an equally
+large immediate commitment. Both settings should allow at least as many
+threads as their non-reservation counterparts and may reach 2,500. Failure
+8 or 1455 is possible before the cap because of committed-memory or other
+system resource limits. These are predictions, not measured values.
+

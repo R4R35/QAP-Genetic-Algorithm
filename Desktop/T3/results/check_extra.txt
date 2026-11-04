@@ -1,0 +1,11 @@
+[OK] invalid later job rejects entire INI before launching first job
+[OK] invalid CLI/config: details -1
+[OK] invalid CLI/config: experiment threads
+[OK] invalid CLI/config: experiment threads
+[OK] invalid CLI/config: experiment threads
+[OK] invalid CLI/config: run C:\Users\nitoi\Documents\Codex\2026-10-31\new-chat\T3\validation\extra\missing.ini
+[OK] Unicode working directory launches
+[OK] Unicode working directory arrives intact
+[OK] long job created descendants before supervisor termination
+[OK] KILL_ON_JOB_CLOSE terminates descendants when supervisor is killed
+Supplemental checks completed successfully.

@@ -1,0 +1,3 @@
+NOT RUN: the shared official experiment checker and common module were not supplied.
+See check_e1_rules.txt for 11/11 supplied E1 rule checks via the supplemental adapter.
+Official Markdown checks remain pending.

@@ -1,0 +1,14 @@
+Supplemental adapter executing the supplied, unchanged T3 experiment_rules.py.
+The official common/Markdown checker was not supplied and is NOT run here.
+[OK] T3.E1a E1 memory_mb=128, stack_kb=64, reservation=0: a line with the unit "threads" and the max parameter -- value=1491 unit=threads max=2500
+[OK] T3.E1a E1 memory_mb=128, stack_kb=64, reservation=1: a line with the unit "threads" and the max parameter -- value=2500 unit=threads max=2500
+[OK] T3.E1a E1 memory_mb=128, stack_kb=1024, reservation=0: a line with the unit "threads" and the max parameter -- value=125 unit=threads max=2500
+[OK] T3.E1a E1 memory_mb=128, stack_kb=1024, reservation=1: a line with the unit "threads" and the max parameter -- value=2500 unit=threads max=2500
+[OK] T3.E1b without reservation: the job limit stops creation (code 8 or 1455) before the cap -- codes 1455, 1455
+[OK] T3.E1b stack_kb=1024 without reservation: 64–128 threads (≈ 128 MiB / 1 MiB) -- 125 threads
+[OK] T3.E1b stack_kb=64 without reservation: more than 4 times as many threads as with 1024 KiB, at most 2048 -- 1491 threads
+[OK] T3.E1b with reservation: at least as many threads as without (cap reached with code 0 or limit 8/1455) -- 2500/0, 2500/0
+[OK] T3.E1c details: private_per_thread_kib > 0, child_exit, remaining_processes=0 on all 4 lines -- private_per_thread_kib=87.4;peak_kib=131072;child_exit=0x00000000;remaining_processes=0; private_per_thread_kib=29.1;peak_kib=73420;child_exit=0x00000000;remaining_processes=0; private_per_thread_kib=
+[OK] T3.E1d E1 cleanup: the handle difference is ≤ 16 and does not depend on the number of threads (variation ≤ 2 between combinations) -- differences [3, 3, 3, 3]
+[OK] T3.E1d no t3_child.exe started after the experiments began is still running -- PIDs: [] (first close the t3_child processes started manually, for example for `details`)
+Summary: 11/11 supplied E1 rule checks passed

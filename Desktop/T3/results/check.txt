@@ -1,0 +1,43 @@
+[OK] T3.1a processes.tsv: the header has exactly the required columns
+[OK] T3.1a processes.tsv: at least 20 processes, numeric and unique PIDs
+[OK] T3.1a processes.tsv: the System process (PID 4) appears
+[OK] T3.1d the status column contains only permitted values
+[OK] T3.1b there are processes with status OK (at least 10)
+[OK] T3.1b the OK processes have the full image path (QueryFullProcessImageNameW)
+[OK] T3.1b the snapshot name matches the image (≥ 95%)
+[OK] T3.1b created_utc in ISO 8601 UTC format for the OK processes
+[OK] T3.1b user (DOMAIN\name), integrity and elevated filled in for the OK processes
+[OK] T3.1d the processes with ACCESS_DENIED have no invented data (image = -)
+[OK] T3.1c the parent column (active / nonexistent / pid_reused) is consistent with the PIDs and times
+[OK] T3.2a modules_34368.tsv: header base/size/name/path
+[OK] T3.2a modules_34368.tsv: contains the .exe image and ntdll.dll
+[OK] T3.2a modules_34368.tsv: base addresses in hexadecimal, numeric sizes
+[OK] T3.2b threads_34368.tsv: header tid/base_priority/description
+[OK] T3.2b threads_34368.tsv: at least one thread, unique numeric TIDs
+[OK] T3.3a results.tsv: the header has exactly the required columns
+[OK] T3.3a results.tsv: one row for each job, in the INI order
+[OK] T3.3b [simple_ok] reason OK, code 0x00000000
+[OK] T3.3b [failed_launch] reason LAUNCH_ERROR:2
+[OK] T3.3b [failed_launch] the measurement fields are '-' (the process did not exist)
+[OK] T3.3c [arguments] the arguments with spaces and diacritics reach the child intact
+[OK] T3.3c [directory] the child's current directory is C:\Windows
+[OK] T3.3d [flood] 3 MiB on each stream, without blocking (reason OK)
+[OK] T3.3d [flood] stdout_bytes = stderr_bytes = 3145728 (total received)
+[OK] T3.3d [flood] the capture files have exactly 1 MiB and truncated = both
+[OK] T3.3d [simple_ok] truncated = no
+[OK] T3.4a [nonzero_code] reason NONZERO_CODE, code 0x00000007
+[OK] T3.4b [timeout] reason TIMEOUT
+[OK] T3.4b [timeout] the real duration is between 1800 and 6000 ms (the limit is 2000 ms)
+[OK] T3.4c [descendants] reason TIMEOUT
+[OK] T3.4c [descendants] the job ends although the descendants keep the pipes open (≤ 8000 ms)
+[OK] T3.4c [descendants] total_processes ≥ 4 (the child and its 3 descendants)
+[OK] T3.4c no t3_child.exe created during the run is still running after the jobs have ended
+[OK] T3.4d [memory] reason MEMORY_LIMIT
+[OK] T3.4d [memory] peak_memory_kb close to the 64 MiB limit (45000–67000 KiB)
+[OK] T3.4e [processes] reason PROCESS_LIMIT
+[OK] T3.4e [processes] total_processes between 3 and 4 (limit 3; the refused process may be counted)
+[OK] T3.4f [crash] reason CRASH:0xC0000005, code 0xC0000005
+[OK] T3.5a the accounting fields are numeric, exit_code in the form 0xXXXXXXXX
+[OK] T3.5a [flood] cpu_time_ms ≥ 0 and total_processes ≥ 1
+[OK] T3.5a [sleep_1500] the real duration of a "sleep 1500" is between 1400 and 4000 ms
+Summary: 42/42 automated tests passed

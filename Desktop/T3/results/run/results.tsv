@@ -1,0 +1,13 @@
+job	command	reason	exit_code	start_ms	real_time_ms	cpu_time_ms	peak_memory_kb	total_processes	stdout_bytes	stderr_bytes	truncated
+simple_ok	"C:\Users\nitoi\Documents\Codex\2026-10-31\new-chat\T3\validation\t3_child.exe" exit 0	OK	0x00000000	11	25	31	1936	2	0	0	no
+nonzero_code	"C:\Users\nitoi\Documents\Codex\2026-10-31\new-chat\T3\validation\t3_child.exe" exit 7	NONZERO_CODE	0x00000007	44	23	15	1936	2	0	0	no
+failed_launch	nonexistent_program_csso.exe --test	LAUNCH_ERROR:2	-	75	-	-	-	-	-	-	-
+arguments	"C:\Users\nitoi\Documents\Codex\2026-10-31\new-chat\T3\validation\t3_child.exe" args "Anna has apples" "café, naïve Ω" final	OK	0x00000000	84	23	15	1944	2	58	0	no
+directory	"C:\Users\nitoi\Documents\Codex\2026-10-31\new-chat\T3\validation\t3_child.exe" directory	OK	0x00000000	116	23	15	1972	2	11	0	no
+timeout	"C:\Users\nitoi\Documents\Codex\2026-10-31\new-chat\T3\validation\t3_child.exe" sleep 60000	TIMEOUT	0x000005B4	148	2011	15	1900	2	0	0	no
+descendants	"C:\Users\nitoi\Documents\Codex\2026-10-31\new-chat\T3\validation\t3_child.exe" children 3 60000	TIMEOUT	0x00000000	2168	3011	15	3820	5	0	0	no
+memory	"C:\Users\nitoi\Documents\Codex\2026-10-31\new-chat\T3\validation\t3_child.exe" memory 512	MEMORY_LIMIT	0xC00000FD	5188	32	31	66560	2	0	0	no
+processes	"C:\Users\nitoi\Documents\Codex\2026-10-31\new-chat\T3\validation\t3_child.exe" children 6 2000	PROCESS_LIMIT	0x00000004	5229	2047	31	3104	4	0	31	no
+crash	"C:\Users\nitoi\Documents\Codex\2026-10-31\new-chat\T3\validation\t3_child.exe" crash	CRASH:0xC0000005	0xC0000005	7285	21	15	1928	2	0	0	no
+flood	"C:\Users\nitoi\Documents\Codex\2026-10-31\new-chat\T3\validation\t3_child.exe" flood 3	OK	0x00000000	7314	30	31	1944	2	3145728	3145728	both
+sleep_1500	"C:\Users\nitoi\Documents\Codex\2026-10-31\new-chat\T3\validation\t3_child.exe" sleep 1500	OK	0x00000000	7353	1537	15	1944	2	0	0	no

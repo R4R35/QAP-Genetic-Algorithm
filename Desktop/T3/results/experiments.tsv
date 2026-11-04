@@ -1,0 +1,5 @@
+run	experiment	parameters	repetition	value	unit	error_code	handles_before	handles_after	details
+2026-10-31T19:46:55Z	E1	memory_mb=128;stack_kb=64;reservation=0;max=2500	1	1491	threads	1455	96	99	private_per_thread_kib=87.4;peak_kib=131072;child_exit=0x00000000;remaining_processes=0
+2026-10-31T19:46:55Z	E1	memory_mb=128;stack_kb=64;reservation=1;max=2500	1	2500	threads	0	96	99	private_per_thread_kib=29.1;peak_kib=73420;child_exit=0x00000000;remaining_processes=0
+2026-10-31T19:46:55Z	E1	memory_mb=128;stack_kb=1024;reservation=0;max=2500	1	125	threads	1455	96	99	private_per_thread_kib=1035.4;peak_kib=130164;child_exit=0x00000000;remaining_processes=0
+2026-10-31T19:46:55Z	E1	memory_mb=128;stack_kb=1024;reservation=1;max=2500	1	2500	threads	0	96	99	private_per_thread_kib=30.9;peak_kib=78036;child_exit=0x00000000;remaining_processes=0

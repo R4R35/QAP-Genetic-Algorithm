@@ -1,0 +1,3 @@
+exit=1
+[ERROR] CreateToolhelp32Snapshot/Module32FirstW (4): 5 Access is denied.
+

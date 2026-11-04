@@ -1,0 +1,14 @@
+simple_ok OK
+nonzero_code NONZERO_CODE
+failed_launch LAUNCH_ERROR:2
+arguments OK
+directory OK
+timeout TIMEOUT
+descendants TIMEOUT
+memory MEMORY_LIMIT
+processes PROCESS_LIMIT
+crash CRASH:0xC0000005
+flood OK
+sleep_1500 OK
+[ERROR] CreateProcessW (failed_launch): 2 The system cannot find the file specified.
+

@@ -1,0 +1,703 @@
+Processes: 374; incomplete: 177
+[ERROR] ProcessIdToSessionId (0): 87 The parameter is incorrect.
+
+[ERROR] ProcessIdToSessionId (4): 5 Access is denied.
+
+[ERROR] OpenProcess (4): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (188): 5 Access is denied.
+
+[ERROR] OpenProcess (188): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (232): 5 Access is denied.
+
+[ERROR] OpenProcess (232): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (860): 5 Access is denied.
+
+[ERROR] OpenProcess (860): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (1412): 5 Access is denied.
+
+[ERROR] OpenProcess (1412): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (1612): 5 Access is denied.
+
+[ERROR] OpenProcess (1612): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (1632): 5 Access is denied.
+
+[ERROR] OpenProcess (1632): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (1680): 5 Access is denied.
+
+[ERROR] OpenProcess (1680): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (1756): 5 Access is denied.
+
+[ERROR] OpenProcess (1756): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (1764): 5 Access is denied.
+
+[ERROR] OpenProcess (1764): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (1788): 5 Access is denied.
+
+[ERROR] OpenProcess (1788): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (1928): 5 Access is denied.
+
+[ERROR] OpenProcess (1928): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (1944): 5 Access is denied.
+
+[ERROR] OpenProcess (1944): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (1936): 5 Access is denied.
+
+[ERROR] OpenProcess (1936): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (1168): 5 Access is denied.
+
+[ERROR] OpenProcess (1168): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (1328): 5 Access is denied.
+
+[ERROR] OpenProcess (1328): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (1512): 5 Access is denied.
+
+[ERROR] OpenProcess (1512): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (2164): 5 Access is denied.
+
+[ERROR] OpenProcess (2164): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (2276): 5 Access is denied.
+
+[ERROR] OpenProcess (2276): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (2292): 5 Access is denied.
+
+[ERROR] OpenProcess (2292): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (2320): 5 Access is denied.
+
+[ERROR] OpenProcess (2320): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (2312): 5 Access is denied.
+
+[ERROR] OpenProcess (2312): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (2328): 5 Access is denied.
+
+[ERROR] OpenProcess (2328): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (2532): 5 Access is denied.
+
+[ERROR] OpenProcess (2532): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (2584): 5 Access is denied.
+
+[ERROR] OpenProcess (2584): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (2608): 5 Access is denied.
+
+[ERROR] OpenProcess (2608): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (2632): 5 Access is denied.
+
+[ERROR] OpenProcess (2632): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (2640): 5 Access is denied.
+
+[ERROR] OpenProcess (2640): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (2656): 5 Access is denied.
+
+[ERROR] OpenProcess (2656): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (2820): 5 Access is denied.
+
+[ERROR] OpenProcess (2820): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (2828): 5 Access is denied.
+
+[ERROR] OpenProcess (2828): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (2884): 5 Access is denied.
+
+[ERROR] OpenProcess (2884): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (2912): 5 Access is denied.
+
+[ERROR] OpenProcess (2912): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (2940): 5 Access is denied.
+
+[ERROR] OpenProcess (2940): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (2596): 5 Access is denied.
+
+[ERROR] OpenProcess (2596): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (3128): 5 Access is denied.
+
+[ERROR] OpenProcess (3128): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (3604): 5 Access is denied.
+
+[ERROR] OpenProcess (3604): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (3792): 5 Access is denied.
+
+[ERROR] OpenProcess (3792): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (3828): 5 Access is denied.
+
+[ERROR] OpenProcess (3828): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (3836): 5 Access is denied.
+
+[ERROR] OpenProcess (3836): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (3844): 5 Access is denied.
+
+[ERROR] OpenProcess (3844): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (3852): 5 Access is denied.
+
+[ERROR] OpenProcess (3852): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (4000): 5 Access is denied.
+
+[ERROR] OpenProcess (4000): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (3720): 5 Access is denied.
+
+[ERROR] OpenProcess (3720): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (3740): 5 Access is denied.
+
+[ERROR] OpenProcess (3740): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (4160): 5 Access is denied.
+
+[ERROR] OpenProcess (4160): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (4300): 5 Access is denied.
+
+[ERROR] OpenProcess (4300): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (4308): 5 Access is denied.
+
+[ERROR] OpenProcess (4308): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (4316): 5 Access is denied.
+
+[ERROR] OpenProcess (4316): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (4324): 5 Access is denied.
+
+[ERROR] OpenProcess (4324): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (4424): 5 Access is denied.
+
+[ERROR] OpenProcess (4424): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (4464): 5 Access is denied.
+
+[ERROR] OpenProcess (4464): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (4476): 5 Access is denied.
+
+[ERROR] OpenProcess (4476): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (4492): 5 Access is denied.
+
+[ERROR] OpenProcess (4492): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (4780): 5 Access is denied.
+
+[ERROR] OpenProcess (4780): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (5048): 5 Access is denied.
+
+[ERROR] OpenProcess (5048): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (5088): 5 Access is denied.
+
+[ERROR] OpenProcess (5088): 5 Access is denied.
+
+[ERROR] OpenProcessToken (2144): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (5420): 5 Access is denied.
+
+[ERROR] OpenProcess (5420): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (5460): 5 Access is denied.
+
+[ERROR] OpenProcess (5460): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (5500): 5 Access is denied.
+
+[ERROR] OpenProcess (5500): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (5540): 5 Access is denied.
+
+[ERROR] OpenProcess (5540): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (5620): 5 Access is denied.
+
+[ERROR] OpenProcess (5620): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (5628): 5 Access is denied.
+
+[ERROR] OpenProcess (5628): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (5724): 5 Access is denied.
+
+[ERROR] OpenProcess (5724): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (5732): 5 Access is denied.
+
+[ERROR] OpenProcess (5732): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (5828): 5 Access is denied.
+
+[ERROR] OpenProcess (5828): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6036): 5 Access is denied.
+
+[ERROR] OpenProcess (6036): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6064): 5 Access is denied.
+
+[ERROR] OpenProcess (6064): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (5220): 5 Access is denied.
+
+[ERROR] OpenProcess (5220): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6204): 5 Access is denied.
+
+[ERROR] OpenProcess (6204): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6224): 5 Access is denied.
+
+[ERROR] OpenProcess (6224): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6240): 5 Access is denied.
+
+[ERROR] OpenProcess (6240): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6248): 5 Access is denied.
+
+[ERROR] OpenProcess (6248): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6256): 5 Access is denied.
+
+[ERROR] OpenProcess (6256): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6264): 5 Access is denied.
+
+[ERROR] OpenProcess (6264): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6276): 5 Access is denied.
+
+[ERROR] OpenProcess (6276): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6284): 5 Access is denied.
+
+[ERROR] OpenProcess (6284): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6292): 5 Access is denied.
+
+[ERROR] OpenProcess (6292): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6300): 5 Access is denied.
+
+[ERROR] OpenProcess (6300): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6328): 5 Access is denied.
+
+[ERROR] OpenProcess (6328): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6340): 5 Access is denied.
+
+[ERROR] OpenProcess (6340): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6348): 5 Access is denied.
+
+[ERROR] OpenProcess (6348): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6360): 5 Access is denied.
+
+[ERROR] OpenProcess (6360): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6368): 5 Access is denied.
+
+[ERROR] OpenProcess (6368): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6376): 5 Access is denied.
+
+[ERROR] OpenProcess (6376): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6384): 5 Access is denied.
+
+[ERROR] OpenProcess (6384): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6392): 5 Access is denied.
+
+[ERROR] OpenProcess (6392): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6436): 5 Access is denied.
+
+[ERROR] OpenProcess (6436): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6456): 5 Access is denied.
+
+[ERROR] OpenProcess (6456): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6468): 5 Access is denied.
+
+[ERROR] OpenProcess (6468): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6476): 5 Access is denied.
+
+[ERROR] OpenProcess (6476): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6508): 5 Access is denied.
+
+[ERROR] OpenProcess (6508): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6560): 5 Access is denied.
+
+[ERROR] OpenProcess (6560): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6660): 5 Access is denied.
+
+[ERROR] OpenProcess (6660): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6696): 5 Access is denied.
+
+[ERROR] OpenProcess (6696): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6704): 5 Access is denied.
+
+[ERROR] OpenProcess (6704): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6860): 5 Access is denied.
+
+[ERROR] OpenProcess (6860): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6868): 5 Access is denied.
+
+[ERROR] OpenProcess (6868): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6876): 5 Access is denied.
+
+[ERROR] OpenProcess (6876): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6888): 5 Access is denied.
+
+[ERROR] OpenProcess (6888): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6896): 5 Access is denied.
+
+[ERROR] OpenProcess (6896): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6904): 5 Access is denied.
+
+[ERROR] OpenProcess (6904): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6920): 5 Access is denied.
+
+[ERROR] OpenProcess (6920): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6956): 5 Access is denied.
+
+[ERROR] OpenProcess (6956): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6976): 5 Access is denied.
+
+[ERROR] OpenProcess (6976): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (7408): 5 Access is denied.
+
+[ERROR] OpenProcess (7408): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (7532): 5 Access is denied.
+
+[ERROR] OpenProcess (7532): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (7664): 5 Access is denied.
+
+[ERROR] OpenProcess (7664): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (8364): 5 Access is denied.
+
+[ERROR] OpenProcess (8364): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (8224): 5 Access is denied.
+
+[ERROR] OpenProcess (8224): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (9228): 5 Access is denied.
+
+[ERROR] OpenProcess (9228): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (9460): 5 Access is denied.
+
+[ERROR] OpenProcess (9460): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (9468): 5 Access is denied.
+
+[ERROR] OpenProcess (9468): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (9552): 5 Access is denied.
+
+[ERROR] OpenProcess (9552): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (9744): 5 Access is denied.
+
+[ERROR] OpenProcess (9744): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (9884): 5 Access is denied.
+
+[ERROR] OpenProcess (9884): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (9896): 5 Access is denied.
+
+[ERROR] OpenProcess (9896): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (9908): 5 Access is denied.
+
+[ERROR] OpenProcess (9908): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (9948): 5 Access is denied.
+
+[ERROR] OpenProcess (9948): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (10032): 5 Access is denied.
+
+[ERROR] OpenProcess (10032): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (10084): 5 Access is denied.
+
+[ERROR] OpenProcess (10084): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (10016): 5 Access is denied.
+
+[ERROR] OpenProcess (10016): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (10936): 5 Access is denied.
+
+[ERROR] OpenProcess (10936): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6192): 5 Access is denied.
+
+[ERROR] OpenProcess (6192): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (1896): 5 Access is denied.
+
+[ERROR] OpenProcess (1896): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (9492): 5 Access is denied.
+
+[ERROR] OpenProcess (9492): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (11276): 5 Access is denied.
+
+[ERROR] OpenProcess (11276): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (11292): 5 Access is denied.
+
+[ERROR] OpenProcess (11292): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (11300): 5 Access is denied.
+
+[ERROR] OpenProcess (11300): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (11308): 5 Access is denied.
+
+[ERROR] OpenProcess (11308): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (11316): 5 Access is denied.
+
+[ERROR] OpenProcess (11316): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (11332): 5 Access is denied.
+
+[ERROR] OpenProcess (11332): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (11720): 5 Access is denied.
+
+[ERROR] OpenProcess (11720): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (11728): 5 Access is denied.
+
+[ERROR] OpenProcess (11728): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (11744): 5 Access is denied.
+
+[ERROR] OpenProcess (11744): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (12156): 5 Access is denied.
+
+[ERROR] OpenProcess (12156): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (12392): 5 Access is denied.
+
+[ERROR] OpenProcess (12392): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (12856): 5 Access is denied.
+
+[ERROR] OpenProcess (12856): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (13180): 5 Access is denied.
+
+[ERROR] OpenProcess (13180): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (13264): 5 Access is denied.
+
+[ERROR] OpenProcess (13264): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (3156): 5 Access is denied.
+
+[ERROR] OpenProcess (3156): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (14848): 5 Access is denied.
+
+[ERROR] OpenProcess (14848): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (14964): 5 Access is denied.
+
+[ERROR] OpenProcess (14964): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (14972): 5 Access is denied.
+
+[ERROR] OpenProcess (14972): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (15672): 5 Access is denied.
+
+[ERROR] OpenProcess (15672): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (19224): 5 Access is denied.
+
+[ERROR] OpenProcess (19224): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (20040): 5 Access is denied.
+
+[ERROR] OpenProcess (20040): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (20056): 5 Access is denied.
+
+[ERROR] OpenProcess (20056): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (20128): 5 Access is denied.
+
+[ERROR] OpenProcess (20128): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (20376): 5 Access is denied.
+
+[ERROR] OpenProcess (20376): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (20564): 5 Access is denied.
+
+[ERROR] OpenProcess (20564): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (20680): 5 Access is denied.
+
+[ERROR] OpenProcess (20680): 5 Access is denied.
+
+[ERROR] OpenProcessToken (21756): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (23128): 5 Access is denied.
+
+[ERROR] OpenProcess (23128): 5 Access is denied.
+
+[ERROR] OpenProcessToken (23088): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (21584): 5 Access is denied.
+
+[ERROR] OpenProcess (21584): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (9184): 5 Access is denied.
+
+[ERROR] OpenProcess (9184): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (23036): 5 Access is denied.
+
+[ERROR] OpenProcess (23036): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (13640): 5 Access is denied.
+
+[ERROR] OpenProcess (13640): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (10736): 5 Access is denied.
+
+[ERROR] OpenProcess (10736): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (26052): 5 Access is denied.
+
+[ERROR] OpenProcess (26052): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (27740): 5 Access is denied.
+
+[ERROR] OpenProcess (27740): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (27000): 5 Access is denied.
+
+[ERROR] OpenProcess (27000): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (2740): 5 Access is denied.
+
+[ERROR] OpenProcess (2740): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (9432): 5 Access is denied.
+
+[ERROR] OpenProcess (9432): 5 Access is denied.
+
+[ERROR] OpenProcessToken (10132): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (15984): 5 Access is denied.
+
+[ERROR] OpenProcess (15984): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (26756): 5 Access is denied.
+
+[ERROR] OpenProcess (26756): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (26200): 5 Access is denied.
+
+[ERROR] OpenProcess (26200): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (29604): 5 Access is denied.
+
+[ERROR] OpenProcess (29604): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (6684): 5 Access is denied.
+
+[ERROR] OpenProcess (6684): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (22952): 5 Access is denied.
+
+[ERROR] OpenProcess (22952): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (384): 5 Access is denied.
+
+[ERROR] OpenProcess (384): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (27124): 5 Access is denied.
+
+[ERROR] OpenProcess (27124): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (31796): 5 Access is denied.
+
+[ERROR] OpenProcess (31796): 5 Access is denied.
+
+[ERROR] ProcessIdToSessionId (32612): 5 Access is denied.
+
+[ERROR] OpenProcess (32612): 5 Access is denied.
+

@@ -1,0 +1,375 @@
+pid	ppid	name	threads	session	created_utc	image	user	integrity	elevated	parent	status
+0	0	[System Process]	36	-	-	-	-	-	-	-	SYSTEM
+4	0	System	501	-	-	-	-	-	-	active	ACCESS_DENIED
+188	4	Secure System	0	-	-	-	-	-	-	active	ACCESS_DENIED
+232	4	Registry	4	-	-	-	-	-	-	active	ACCESS_DENIED
+860	4	smss.exe	2	-	-	-	-	-	-	active	ACCESS_DENIED
+1412	1396	csrss.exe	13	-	-	-	-	-	-	nonexistent	ACCESS_DENIED
+1612	1396	wininit.exe	2	-	-	-	-	-	-	nonexistent	ACCESS_DENIED
+1632	1604	csrss.exe	14	-	-	-	-	-	-	nonexistent	ACCESS_DENIED
+1680	1604	winlogon.exe	4	-	-	-	-	-	-	nonexistent	ACCESS_DENIED
+1756	1612	services.exe	8	-	-	-	-	-	-	active	ACCESS_DENIED
+1764	1612	LsaIso.exe	1	-	-	-	-	-	-	active	ACCESS_DENIED
+1788	1612	lsass.exe	12	-	-	-	-	-	-	active	ACCESS_DENIED
+1928	1756	svchost.exe	30	-	-	-	-	-	-	active	ACCESS_DENIED
+1944	1680	fontdrvhost.exe	5	-	-	-	-	-	-	active	ACCESS_DENIED
+1936	1612	fontdrvhost.exe	5	-	-	-	-	-	-	active	ACCESS_DENIED
+1168	1756	WUDFHost.exe	8	-	-	-	-	-	-	active	ACCESS_DENIED
+1328	1756	svchost.exe	21	-	-	-	-	-	-	active	ACCESS_DENIED
+1512	1756	svchost.exe	6	-	-	-	-	-	-	active	ACCESS_DENIED
+2164	1680	dwm.exe	49	-	-	-	-	-	-	active	ACCESS_DENIED
+2276	1756	svchost.exe	5	-	-	-	-	-	-	active	ACCESS_DENIED
+2292	1756	svchost.exe	2	-	-	-	-	-	-	active	ACCESS_DENIED
+2320	1756	svchost.exe	3	-	-	-	-	-	-	active	ACCESS_DENIED
+2312	1756	svchost.exe	10	-	-	-	-	-	-	active	ACCESS_DENIED
+2328	1756	svchost.exe	3	-	-	-	-	-	-	active	ACCESS_DENIED
+2532	1756	svchost.exe	18	-	-	-	-	-	-	active	ACCESS_DENIED
+2584	1756	svchost.exe	7	-	-	-	-	-	-	active	ACCESS_DENIED
+2608	1756	svchost.exe	12	-	-	-	-	-	-	active	ACCESS_DENIED
+2632	1756	svchost.exe	8	-	-	-	-	-	-	active	ACCESS_DENIED
+2640	1756	svchost.exe	4	-	-	-	-	-	-	active	ACCESS_DENIED
+2656	1756	svchost.exe	6	-	-	-	-	-	-	active	ACCESS_DENIED
+2820	1756	svchost.exe	7	-	-	-	-	-	-	active	ACCESS_DENIED
+2828	1756	svchost.exe	9	-	-	-	-	-	-	active	ACCESS_DENIED
+2884	1756	svchost.exe	6	-	-	-	-	-	-	active	ACCESS_DENIED
+2912	1756	svchost.exe	29	-	-	-	-	-	-	active	ACCESS_DENIED
+2940	1756	svchost.exe	67	-	-	-	-	-	-	active	ACCESS_DENIED
+2596	1756	svchost.exe	5	-	-	-	-	-	-	active	ACCESS_DENIED
+3128	1756	svchost.exe	14	-	-	-	-	-	-	active	ACCESS_DENIED
+3604	1756	svchost.exe	9	-	-	-	-	-	-	active	ACCESS_DENIED
+3792	1756	NVDisplay.Container.exe	38	-	-	-	-	-	-	active	ACCESS_DENIED
+3828	1756	atiesrxx.exe	7	-	-	-	-	-	-	active	ACCESS_DENIED
+3836	1756	amdfendrsr.exe	4	-	-	-	-	-	-	active	ACCESS_DENIED
+3844	1756	AsusCertService.exe	4	-	-	-	-	-	-	active	ACCESS_DENIED
+3852	1756	svchost.exe	8	-	-	-	-	-	-	active	ACCESS_DENIED
+4000	1756	svchost.exe	11	-	-	-	-	-	-	active	ACCESS_DENIED
+3720	1756	svchost.exe	13	-	-	-	-	-	-	active	ACCESS_DENIED
+3740	3792	NVDisplay.Container.exe	29	-	-	-	-	-	-	active	ACCESS_DENIED
+4160	1756	svchost.exe	7	-	-	-	-	-	-	active	ACCESS_DENIED
+4300	1756	svchost.exe	4	-	-	-	-	-	-	active	ACCESS_DENIED
+4308	1756	svchost.exe	4	-	-	-	-	-	-	active	ACCESS_DENIED
+4316	1756	svchost.exe	4	-	-	-	-	-	-	active	ACCESS_DENIED
+4324	3828	atieclxx.exe	16	-	-	-	-	-	-	active	ACCESS_DENIED
+4424	1756	svchost.exe	3	-	-	-	-	-	-	active	ACCESS_DENIED
+4464	1756	svchost.exe	3	-	-	-	-	-	-	active	ACCESS_DENIED
+4476	1756	svchost.exe	8	-	-	-	-	-	-	active	ACCESS_DENIED
+4492	4	Memory Compression	70	-	-	-	-	-	-	active	ACCESS_DENIED
+4780	1756	svchost.exe	10	-	-	-	-	-	-	active	ACCESS_DENIED
+5048	1756	svchost.exe	3	-	-	-	-	-	-	active	ACCESS_DENIED
+5088	1756	svchost.exe	4	-	-	-	-	-	-	active	ACCESS_DENIED
+2144	4780	audiodg.exe	7	0	2026-10-31T18:36:57Z	C:\Windows\System32\audiodg.exe	-	-	-	active	PARTIAL
+5420	1756	svchost.exe	5	-	-	-	-	-	-	active	ACCESS_DENIED
+5460	1756	svchost.exe	5	-	-	-	-	-	-	active	ACCESS_DENIED
+5500	1756	svchost.exe	7	-	-	-	-	-	-	active	ACCESS_DENIED
+5540	1756	svchost.exe	5	-	-	-	-	-	-	active	ACCESS_DENIED
+5620	1756	svchost.exe	13	-	-	-	-	-	-	active	ACCESS_DENIED
+5628	1756	svchost.exe	3	-	-	-	-	-	-	active	ACCESS_DENIED
+5724	1756	AsusOptimization.exe	10	-	-	-	-	-	-	active	ACCESS_DENIED
+5732	1756	svchost.exe	7	-	-	-	-	-	-	active	ACCESS_DENIED
+5828	1756	svchost.exe	18	-	-	-	-	-	-	active	ACCESS_DENIED
+6036	1756	spoolsv.exe	9	-	-	-	-	-	-	active	ACCESS_DENIED
+6064	1756	svchost.exe	2	-	-	-	-	-	-	active	ACCESS_DENIED
+5220	1756	svchost.exe	6	-	-	-	-	-	-	active	ACCESS_DENIED
+6204	1756	ArmouryCrateControlInterface.exe	3	-	-	-	-	-	-	active	ACCESS_DENIED
+6224	1756	AsusPTPService.exe	4	-	-	-	-	-	-	active	ACCESS_DENIED
+6240	1756	AsusSoftwareManager.exe	12	-	-	-	-	-	-	active	ACCESS_DENIED
+6248	1756	svchost.exe	16	-	-	-	-	-	-	active	ACCESS_DENIED
+6256	1756	AsusSystemAnalysis.exe	8	-	-	-	-	-	-	active	ACCESS_DENIED
+6264	1756	AsusSwitch.exe	7	-	-	-	-	-	-	active	ACCESS_DENIED
+6276	1756	AsusSystemDiagnosis.exe	2	-	-	-	-	-	-	active	ACCESS_DENIED
+6284	1756	GameSDK.exe	3	-	-	-	-	-	-	active	ACCESS_DENIED
+6292	1756	GameInputRedistService.exe	12	-	-	-	-	-	-	active	ACCESS_DENIED
+6300	1756	svchost.exe	12	-	-	-	-	-	-	active	ACCESS_DENIED
+6328	1756	OfficeClickToRun.exe	24	-	-	-	-	-	-	active	ACCESS_DENIED
+6340	1756	svchost.exe	2	-	-	-	-	-	-	active	ACCESS_DENIED
+6348	1756	AsusAppService.exe	5	-	-	-	-	-	-	active	ACCESS_DENIED
+6360	1756	svchost.exe	18	-	-	-	-	-	-	active	ACCESS_DENIED
+6368	1756	svchost.exe	8	-	-	-	-	-	-	active	ACCESS_DENIED
+6376	1756	extjob.exe	2	-	-	-	-	-	-	active	ACCESS_DENIED
+6384	1756	nvcontainer.exe	31	-	-	-	-	-	-	active	ACCESS_DENIED
+6392	1756	ArmouryCrate.Service.exe	131	-	-	-	-	-	-	active	ACCESS_DENIED
+6436	1756	omtsreco.exe	4	-	-	-	-	-	-	active	ACCESS_DENIED
+6456	1756	OraClrAgnt.exe	1	-	-	-	-	-	-	active	ACCESS_DENIED
+6468	1756	TNSLSNR.EXE	3	-	-	-	-	-	-	active	ACCESS_DENIED
+6476	1756	httpd.exe	4	-	-	-	-	-	-	active	ACCESS_DENIED
+6508	1756	MpDefenderCoreService.exe	12	-	-	-	-	-	-	active	ACCESS_DENIED
+6560	1756	LightingService.exe	11	-	-	-	-	-	-	active	ACCESS_DENIED
+6660	1756	pgbouncer.exe	2	-	-	-	-	-	-	active	ACCESS_DENIED
+6696	1756	oracle.exe	31	-	-	-	-	-	-	active	ACCESS_DENIED
+6704	1756	pg_ctl.exe	2	-	-	-	-	-	-	active	ACCESS_DENIED
+6860	1756	RvControlSvc.exe	63	-	-	-	-	-	-	active	ACCESS_DENIED
+6868	1756	RtkAudUService64.exe	19	-	-	-	-	-	-	active	ACCESS_DENIED
+6876	1756	RtkBtManServ.exe	3	-	-	-	-	-	-	active	ACCESS_DENIED
+6888	1756	svchost.exe	6	-	-	-	-	-	-	active	ACCESS_DENIED
+6896	1756	ROGLiveService.exe	36	-	-	-	-	-	-	active	ACCESS_DENIED
+6904	1756	svchost.exe	3	-	-	-	-	-	-	active	ACCESS_DENIED
+6920	1756	svchost.exe	14	-	-	-	-	-	-	active	ACCESS_DENIED
+6956	1756	wslservice.exe	10	-	-	-	-	-	-	active	ACCESS_DENIED
+6976	1756	XboxService.exe	6	-	-	-	-	-	-	active	ACCESS_DENIED
+7060	6292	GameInputRedistService.exe	3	1	2026-10-31T18:36:59Z	C:\Program Files\Microsoft GameInput\x64\GameInputRedistService.exe	RAREEEEES\nitoi	Medium	no	active	OK
+7408	6340	dasHost.exe	2	-	-	-	-	-	-	active	ACCESS_DENIED
+7532	1756	MsMpEng.exe	69	-	-	-	-	-	-	active	ACCESS_DENIED
+7664	1928	WmiPrvSE.exe	5	-	-	-	-	-	-	active	ACCESS_DENIED
+8364	1756	WUDFHost.exe	5	-	-	-	-	-	-	active	ACCESS_DENIED
+8764	6976	XboxService.exe	17	1	2026-10-31T18:36:59Z	C:\Program Files\XboxService\x64\XboxService.exe	RAREEEEES\nitoi	Medium	no	active	OK
+9052	8764	GameInputRawInputProxy.exe	1	1	2026-10-31T18:37:00Z	C:\Program Files\Microsoft GameInput\x64\GameInputRawInputProxy.exe	RAREEEEES\nitoi	Medium	no	active	OK
+9060	5724	AsusOptimizationStartupTask.exe	7	1	2026-10-31T18:37:00Z	C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_ec0a7aca8834d5bc\ASUSOptimization\AsusOptimizationStartupTask.exe	RAREEEEES\nitoi	Medium	no	active	OK
+8224	1756	svchost.exe	12	-	-	-	-	-	-	active	ACCESS_DENIED
+9228	5724	AsusHotkey.exe	1	-	-	-	-	-	-	active	ACCESS_DENIED
+9460	1756	svchost.exe	8	-	-	-	-	-	-	active	ACCESS_DENIED
+9468	1756	svchost.exe	28	-	-	-	-	-	-	active	ACCESS_DENIED
+9552	6704	postgres.exe	3	-	-	-	-	-	-	active	ACCESS_DENIED
+9744	1756	svchost.exe	3	-	-	-	-	-	-	active	ACCESS_DENIED
+9884	1756	gamingservicesnet.exe	40	-	-	-	-	-	-	active	ACCESS_DENIED
+9896	1756	gamingservices.exe	24	-	-	-	-	-	-	active	ACCESS_DENIED
+9908	9552	conhost.exe	4	-	-	-	-	-	-	active	ACCESS_DENIED
+9948	1756	codex-windows-sandbox-service.exe	5	-	-	-	-	-	-	active	ACCESS_DENIED
+10032	6300	AggregatorHost.exe	4	-	-	-	-	-	-	active	ACCESS_DENIED
+10084	1756	svchost.exe	3	-	-	-	-	-	-	active	ACCESS_DENIED
+10016	1756	svchost.exe	3	-	-	-	-	-	-	active	ACCESS_DENIED
+10292	2820	sihost.exe	15	1	2026-10-31T18:37:00Z	C:\Windows\System32\sihost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+10320	1756	svchost.exe	13	1	2026-10-31T18:37:00Z	C:\Windows\System32\svchost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+10360	1756	svchost.exe	5	1	2026-10-31T18:37:00Z	C:\Windows\System32\svchost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+10716	1756	svchost.exe	4	1	2026-10-31T18:37:00Z	C:\Windows\System32\svchost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+10936	6476	httpd.exe	66	-	-	-	-	-	-	active	ACCESS_DENIED
+10960	1756	svchost.exe	8	1	2026-10-31T18:37:00Z	C:\Windows\System32\svchost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+11192	2584	taskhostw.exe	8	1	2026-10-31T18:37:00Z	C:\Windows\System32\taskhostw.exe	RAREEEEES\nitoi	Medium	no	active	OK
+11200	2584	AsHotplugCtrl.exe	1	1	2026-10-31T18:37:00Z	C:\Program Files\ASUS\ASUS Hotplug Controller\AsHotplugCtrl.exe	RAREEEEES\nitoi	High	yes	active	OK
+10944	2584	AcPowerNotification.exe	25	1	2026-10-31T18:37:00Z	C:\Program Files (x86)\ASUS\ArmouryDevice\dll\AcPowerNotification\AcPowerNotification.exe	RAREEEEES\nitoi	High	yes	active	OK
+1780	2584	AsMonitorControl.exe	2	1	2026-10-31T18:37:00Z	C:\Program Files\ASUS\ASUS Monitor Control\AsMonitorControl.exe	RAREEEEES\nitoi	High	yes	active	OK
+6192	1756	svchost.exe	5	-	-	-	-	-	-	active	ACCESS_DENIED
+1896	9552	postgres.exe	3	-	-	-	-	-	-	active	ACCESS_DENIED
+9492	1756	SearchIndexer.exe	12	-	-	-	-	-	-	active	ACCESS_DENIED
+11276	9552	postgres.exe	2	-	-	-	-	-	-	active	ACCESS_DENIED
+11292	9552	postgres.exe	2	-	-	-	-	-	-	active	ACCESS_DENIED
+11300	9552	postgres.exe	2	-	-	-	-	-	-	active	ACCESS_DENIED
+11308	9552	postgres.exe	2	-	-	-	-	-	-	active	ACCESS_DENIED
+11316	9552	postgres.exe	2	-	-	-	-	-	-	active	ACCESS_DENIED
+11332	1756	svchost.exe	5	-	-	-	-	-	-	active	ACCESS_DENIED
+11720	9552	postgres.exe	2	-	-	-	-	-	-	active	ACCESS_DENIED
+11728	9552	postgres.exe	2	-	-	-	-	-	-	active	ACCESS_DENIED
+11744	9552	postgres.exe	2	-	-	-	-	-	-	active	ACCESS_DENIED
+12156	1756	svchost.exe	15	-	-	-	-	-	-	active	ACCESS_DENIED
+10908	12264	explorer.exe	206	1	2026-10-31T18:37:01Z	C:\Windows\explorer.exe	RAREEEEES\nitoi	Medium	no	nonexistent	OK
+11576	10292	ShellHost.exe	19	1	2026-10-31T18:37:01Z	C:\Windows\System32\ShellHost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+12392	1756	svchost.exe	9	-	-	-	-	-	-	active	ACCESS_DENIED
+12672	10292	CrossDeviceResume.exe	20	1	2026-10-31T18:37:02Z	C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe	RAREEEEES\nitoi	Medium	no	active	OK
+12856	1756	svchost.exe	4	-	-	-	-	-	-	active	ACCESS_DENIED
+13180	1756	svchost.exe	5	-	-	-	-	-	-	active	ACCESS_DENIED
+13264	13180	NgcIso.exe	2	-	-	-	-	-	-	active	ACCESS_DENIED
+13188	1928	rundll32.exe	3	1	2026-10-31T18:37:02Z	C:\Windows\System32\rundll32.exe	RAREEEEES\nitoi	Medium	no	active	OK
+11324	1756	svchost.exe	7	1	2026-10-31T18:37:03Z	C:\Windows\System32\svchost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+3156	1756	svchost.exe	14	-	-	-	-	-	-	active	ACCESS_DENIED
+13796	1928	WidgetBoard.exe	6	1	2026-10-31T18:37:04Z	C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_526.21100.40.0_x64__cw5n1h2txyewy\WidgetBoard.exe	RAREEEEES\nitoi	Medium	no	active	OK
+14020	1928	SearchHost.exe	39	1	2026-10-31T18:37:04Z	C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe	RAREEEEES\nitoi	Low	no	active	OK
+14052	1928	StartMenuExperienceHost.exe	45	1	2026-10-31T18:37:04Z	C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+13824	1928	WidgetService.exe	8	1	2026-10-31T18:37:04Z	C:\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.19.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe	RAREEEEES\nitoi	Medium	no	active	OK
+14500	1928	RuntimeBroker.exe	25	1	2026-10-31T18:37:04Z	C:\Windows\System32\RuntimeBroker.exe	RAREEEEES\nitoi	Medium	no	active	OK
+14512	1756	svchost.exe	8	1	2026-10-31T18:37:04Z	C:\Windows\System32\svchost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+14848	7532	DefenderAiPlatformHost.exe	1	-	-	-	-	-	-	active	ACCESS_DENIED
+14964	6384	nvcontainer.exe	23	-	-	-	-	-	-	active	ACCESS_DENIED
+14972	1928	unsecapp.exe	3	-	-	-	-	-	-	active	ACCESS_DENIED
+15008	6384	nvcontainer.exe	17	1	2026-10-31T18:37:05Z	C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe	RAREEEEES\nitoi	Medium	no	active	OK
+15040	6384	nvcontainer.exe	63	1	2026-10-31T18:37:05Z	C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe	RAREEEEES\nitoi	Medium	no	active	OK
+15672	1756	svchost.exe	6	-	-	-	-	-	-	active	ACCESS_DENIED
+15972	10908	AacAmbientLighting.exe	13	1	2026-10-31T18:37:05Z	C:\Program Files\ASUS\AacAmbientHal\AacAmbientLighting.exe	RAREEEEES\nitoi	Medium	no	active	OK
+15372	14020	msedgewebview2.exe	51	1	2026-10-31T18:37:06Z	C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.50\msedgewebview2.exe	RAREEEEES\nitoi	Low	no	active	OK
+16424	15372	msedgewebview2.exe	8	1	2026-10-31T18:37:06Z	C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.50\msedgewebview2.exe	RAREEEEES\nitoi	Low	no	active	OK
+16588	6392	ArmouryCrate.UserSessionHelper.exe	150	1	2026-10-31T18:37:06Z	C:\Program Files\ASUS\Armoury Crate Service\ArmouryCrate.UserSessionHelper.exe	RAREEEEES\nitoi	High	yes	active	OK
+16616	16588	conhost.exe	2	1	2026-10-31T18:37:06Z	C:\Windows\System32\conhost.exe	RAREEEEES\nitoi	High	yes	active	OK
+17080	15372	msedgewebview2.exe	34	1	2026-10-31T18:37:06Z	C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.50\msedgewebview2.exe	RAREEEEES\nitoi	Low	no	active	OK
+17104	15372	msedgewebview2.exe	28	1	2026-10-31T18:37:06Z	C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.50\msedgewebview2.exe	RAREEEEES\nitoi	Low	no	active	OK
+17344	15372	msedgewebview2.exe	10	1	2026-10-31T18:37:06Z	C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.50\msedgewebview2.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+13984	15372	msedgewebview2.exe	25	1	2026-10-31T18:37:07Z	C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.50\msedgewebview2.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+4672	1928	MicrosoftStartFeedProvider.exe	10	1	2026-10-31T18:37:07Z	C:\Program Files\WindowsApps\Microsoft.StartExperiencesApp_1.398.4.0_x64__8wekyb3d8bbwe\MicrosoftStartFeedProvider\MicrosoftStartFeedProvider.exe	RAREEEEES\nitoi	Medium	no	active	OK
+17596	1928	RtkAudUService64.exe	8	1	2026-10-31T18:37:07Z	C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_a5b5950537cd134e\RtkAudUService64.exe	RAREEEEES\nitoi	High	yes	active	OK
+17820	1928	ArmouryCrate.exe	23	1	2026-10-31T18:37:07Z	C:\Program Files\WindowsApps\B9ECED6F.ArmouryCrate_6.7.6.0_x64__qmba6cd70vzyy\ArmouryCrate.exe	RAREEEEES\nitoi	Low	no	active	OK
+18392	7532	DefenderSessionHelper.exe	1	1	2026-10-31T18:37:08Z	C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26100.4-0\DefenderSessionHelper.exe	RAREEEEES\nitoi	Medium	no	active	OK
+17536	2596	ctfmon.exe	19	1	2026-10-31T18:37:09Z	C:\Windows\System32\ctfmon.exe	RAREEEEES\nitoi	High	no	active	OK
+13336	6384	nvsphelper64.exe	6	1	2026-10-31T18:37:09Z	C:\Program Files\NVIDIA Corporation\NVIDIA app\ShadowPlay\nvsphelper64.exe	RAREEEEES\nitoi	High	no	active	OK
+13392	15008	NVIDIA Overlay.exe	96	1	2026-10-31T18:37:09Z	C:\Program Files\NVIDIA Corporation\NVIDIA app\CEF\NVIDIA Overlay.exe	RAREEEEES\nitoi	Medium	no	active	OK
+18580	13392	NVIDIA Overlay.exe	46	1	2026-10-31T18:37:11Z	C:\Program Files\NVIDIA Corporation\NVIDIA app\CEF\NVIDIA Overlay.exe	RAREEEEES\nitoi	Medium	no	active	OK
+18616	13392	NVIDIA Overlay.exe	22	1	2026-10-31T18:37:11Z	C:\Program Files\NVIDIA Corporation\NVIDIA app\CEF\NVIDIA Overlay.exe	RAREEEEES\nitoi	Medium	no	active	OK
+18956	13392	NVIDIA Overlay.exe	10	1	2026-10-31T18:37:11Z	C:\Program Files\NVIDIA Corporation\NVIDIA app\CEF\NVIDIA Overlay.exe	RAREEEEES\nitoi	Medium	no	active	OK
+19224	1756	NisSrv.exe	14	-	-	-	-	-	-	active	ACCESS_DENIED
+19420	13392	NVIDIA Overlay.exe	26	1	2026-10-31T18:37:11Z	C:\Program Files\NVIDIA Corporation\NVIDIA app\CEF\NVIDIA Overlay.exe	RAREEEEES\nitoi	Medium	no	active	OK
+20040	1756	svchost.exe	6	-	-	-	-	-	-	active	ACCESS_DENIED
+20056	1756	svchost.exe	4	-	-	-	-	-	-	active	ACCESS_DENIED
+20128	1756	svchost.exe	13	-	-	-	-	-	-	active	ACCESS_DENIED
+20376	1756	svchost.exe	2	-	-	-	-	-	-	active	ACCESS_DENIED
+18908	11136	ArmourySocketServer.exe	19	1	2026-10-31T18:37:16Z	C:\Program Files (x86)\ASUS\ArmouryDevice\dll\ArmourySocketServer\ArmourySocketServer.exe	RAREEEEES\nitoi	High	yes	nonexistent	OK
+12020	19400	Discord.exe	59	1	2026-10-31T18:37:17Z	C:\Users\nitoi\AppData\Local\Discord\app-1.0.9266\Discord.exe	RAREEEEES\nitoi	Medium	no	nonexistent	OK
+20564	1756	svchost.exe	4	-	-	-	-	-	-	active	ACCESS_DENIED
+20612	12020	Discord.exe	7	1	2026-10-31T18:37:18Z	C:\Users\nitoi\AppData\Local\Discord\app-1.0.9266\Discord.exe	RAREEEEES\nitoi	Medium	no	active	OK
+20680	1756	svchost.exe	12	-	-	-	-	-	-	active	ACCESS_DENIED
+20812	12020	Discord.exe	14	1	2026-10-31T18:37:18Z	C:\Users\nitoi\AppData\Local\Discord\app-1.0.9266\Discord.exe	RAREEEEES\nitoi	Low	no	active	OK
+20828	12020	Discord.exe	22	1	2026-10-31T18:37:18Z	C:\Users\nitoi\AppData\Local\Discord\app-1.0.9266\Discord.exe	RAREEEEES\nitoi	Medium	no	active	OK
+21708	1928	WhatsApp.Root.exe	79	1	2026-10-31T18:37:21Z	C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2641.101.0_x64__cv1g1gvanyjgm\WhatsApp.Root.exe	RAREEEEES\nitoi	Medium	no	active	OK
+22020	12020	Discord.exe	82	1	2026-10-31T18:37:21Z	C:\Users\nitoi\AppData\Local\Discord\app-1.0.9266\Discord.exe	RAREEEEES\nitoi	Medium	no	active	OK
+21756	18908	asus_framework.exe	39	1	2026-10-31T18:37:22Z	C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe	-	-	-	active	PARTIAL
+23012	12020	Discord.exe	8	1	2026-10-31T18:37:24Z	C:\Users\nitoi\AppData\Local\Discord\app-1.0.9266\Discord.exe	RAREEEEES\nitoi	Low	no	active	OK
+23128	1756	svchost.exe	6	-	-	-	-	-	-	active	ACCESS_DENIED
+23320	1928	RuntimeBroker.exe	4	1	2026-10-31T18:37:24Z	C:\Windows\System32\RuntimeBroker.exe	RAREEEEES\nitoi	Medium	no	active	OK
+7772	21756	asus_framework.exe	25	1	2026-10-31T18:37:30Z	C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe	RAREEEEES\nitoi	Low	no	active	OK
+23088	21756	asus_framework.exe	15	1	2026-10-31T18:37:30Z	C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe	-	-	-	active	PARTIAL
+11792	10908	SecurityHealthSystray.exe	3	1	2026-10-31T18:37:34Z	C:\Windows\System32\SecurityHealthSystray.exe	RAREEEEES\nitoi	Medium	no	active	OK
+21584	1756	SecurityHealthService.exe	12	-	-	-	-	-	-	active	ACCESS_DENIED
+9184	1756	svchost.exe	10	-	-	-	-	-	-	active	ACCESS_DENIED
+22812	10908	RtkAudUService64.exe	12	1	2026-10-31T18:37:35Z	C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_a5b5950537cd134e\RtkAudUService64.exe	RAREEEEES\nitoi	Medium	no	active	OK
+6172	10908	vgtray.exe	22	1	2026-10-31T18:37:36Z	C:\Program Files\Riot Vanguard\vgtray.exe	RAREEEEES\nitoi	Medium	no	active	OK
+18300	10908	Spotify.exe	92	1	2026-10-31T18:37:36Z	C:\Users\nitoi\AppData\Roaming\Spotify\Spotify.exe	RAREEEEES\nitoi	Medium	no	active	OK
+10556	18300	Spotify.exe	6	1	2026-10-31T18:37:36Z	C:\Users\nitoi\AppData\Roaming\Spotify\Spotify.exe	RAREEEEES\nitoi	Medium	no	active	OK
+23728	18300	Spotify.exe	71	1	2026-10-31T18:37:37Z	C:\Users\nitoi\AppData\Roaming\Spotify\Spotify.exe	RAREEEEES\nitoi	Low	no	active	OK
+23744	18300	Spotify.exe	27	1	2026-10-31T18:37:37Z	C:\Users\nitoi\AppData\Roaming\Spotify\Spotify.exe	RAREEEEES\nitoi	Medium	no	active	OK
+23792	18300	Spotify.exe	11	1	2026-10-31T18:37:37Z	C:\Users\nitoi\AppData\Roaming\Spotify\Spotify.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+24204	18300	Spotify.exe	23	1	2026-10-31T18:37:38Z	C:\Users\nitoi\AppData\Roaming\Spotify\Spotify.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+24260	18300	Spotify.exe	26	1	2026-10-31T18:37:38Z	C:\Users\nitoi\AppData\Roaming\Spotify\Spotify.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+18608	1756	svchost.exe	9	1	2026-10-31T18:37:45Z	C:\Windows\System32\svchost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+20144	1284	zen.exe	82	1	2026-10-31T18:37:46Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Medium	no	pid_reused	OK
+24640	20144	zen.exe	94	1	2026-10-31T18:37:47Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Low	no	active	OK
+24696	18300	Spotify.exe	9	1	2026-10-31T18:37:47Z	C:\Users\nitoi\AppData\Roaming\Spotify\Spotify.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+24764	20144	zen.exe	4	1	2026-10-31T18:37:47Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+25164	20144	zen.exe	26	1	2026-10-31T18:37:48Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+25196	20144	zen.exe	18	1	2026-10-31T18:37:48Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Low	no	active	OK
+25592	20144	zen.exe	26	1	2026-10-31T18:37:48Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+24852	20144	zen.exe	26	1	2026-10-31T18:37:48Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+25800	20144	zen.exe	4	1	2026-10-31T18:37:52Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+26160	20144	zen.exe	33	1	2026-10-31T18:37:59Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+26060	18300	Spotify.exe	10	1	2026-10-31T18:38:02Z	C:\Users\nitoi\AppData\Roaming\Spotify\Spotify.exe	RAREEEEES\nitoi	Low	no	active	OK
+9824	10908	wallpaper64.exe	52	1	2026-10-31T18:38:06Z	C:\Program Files (x86)\Steam\steamapps\common\wallpaper_engine\wallpaper64.exe	RAREEEEES\nitoi	Medium	no	active	OK
+25936	21708	msedgewebview2.exe	53	1	2026-10-31T18:38:31Z	C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.50\msedgewebview2.exe	RAREEEEES\nitoi	Medium	no	active	OK
+2872	25936	msedgewebview2.exe	8	1	2026-10-31T18:38:31Z	C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.50\msedgewebview2.exe	RAREEEEES\nitoi	Medium	no	active	OK
+26132	25936	msedgewebview2.exe	75	1	2026-10-31T18:38:32Z	C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.50\msedgewebview2.exe	RAREEEEES\nitoi	Low	no	active	OK
+22804	25936	msedgewebview2.exe	25	1	2026-10-31T18:38:32Z	C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.50\msedgewebview2.exe	RAREEEEES\nitoi	Medium	no	active	OK
+1284	25936	msedgewebview2.exe	11	1	2026-10-31T18:38:32Z	C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.50\msedgewebview2.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+23036	1756	svchost.exe	9	-	-	-	-	-	-	active	ACCESS_DENIED
+19568	25936	msedgewebview2.exe	32	1	2026-10-31T18:38:35Z	C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.50\msedgewebview2.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+23360	1756	svchost.exe	5	1	2026-10-31T18:38:55Z	C:\Windows\System32\svchost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+26244	6240	AsusSoftwareManagerAgent.exe	8	1	2026-10-31T18:38:59Z	C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_ec0a7aca8834d5bc\ASUSSoftwareManager\AsusSoftwareManagerAgent.exe	RAREEEEES\nitoi	High	yes	active	OK
+2676	10292	TranslucentTB.exe	20	1	2026-10-31T18:39:11Z	C:\Program Files\WindowsApps\28017CharlesMilette.TranslucentTB_2026.2.0.0_x64__v826wp6bftszj\TranslucentTB.exe	RAREEEEES\nitoi	Medium	no	active	OK
+7568	25936	msedgewebview2.exe	10	1	2026-10-31T18:39:31Z	C:\Program Files (x86)\Microsoft\EdgeWebView\Application\156.0.4314.50\msedgewebview2.exe	RAREEEEES\nitoi	Low	no	active	OK
+4688	10292	FluentFlyout.exe	37	1	2026-10-31T18:39:42Z	C:\Program Files\WindowsApps\unchihugo.FluentFlyout_2.16.1.0_x64__69b7b6qge1ahj\FluentFlyout\FluentFlyout.exe	RAREEEEES\nitoi	Medium	no	active	OK
+13640	1756	svchost.exe	17	-	-	-	-	-	-	active	ACCESS_DENIED
+6912	1928	RuntimeBroker.exe	4	1	2026-10-31T18:39:43Z	C:\Windows\System32\RuntimeBroker.exe	RAREEEEES\nitoi	Medium	no	active	OK
+7084	10908	steam.exe	43	1	2026-10-31T18:39:48Z	C:\Program Files (x86)\Steam\steam.exe	RAREEEEES\nitoi	Medium	no	active	OK
+10736	1756	svchost.exe	12	-	-	-	-	-	-	active	ACCESS_DENIED
+8288	20144	zen.exe	4	1	2026-10-31T18:39:54Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+20856	20144	zen.exe	28	1	2026-10-31T18:39:56Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+16324	7084	steamwebhelper.exe	46	1	2026-10-31T18:40:00Z	C:\Program Files (x86)\Steam\bin\cef\cef.win64\steamwebhelper.exe	RAREEEEES\nitoi	Medium	no	active	OK
+17892	16324	steamwebhelper.exe	6	1	2026-10-31T18:40:00Z	C:\Program Files (x86)\Steam\bin\cef\cef.win64\steamwebhelper.exe	RAREEEEES\nitoi	Medium	no	active	OK
+26052	1756	steamservice.exe	4	-	-	-	-	-	-	active	ACCESS_DENIED
+22704	16324	steamwebhelper.exe	32	1	2026-10-31T18:40:00Z	C:\Program Files (x86)\Steam\bin\cef\cef.win64\steamwebhelper.exe	RAREEEEES\nitoi	Low	no	active	OK
+14428	16324	steamwebhelper.exe	19	1	2026-10-31T18:40:00Z	C:\Program Files (x86)\Steam\bin\cef\cef.win64\steamwebhelper.exe	RAREEEEES\nitoi	Medium	no	active	OK
+23416	16324	steamwebhelper.exe	9	1	2026-10-31T18:40:01Z	C:\Program Files (x86)\Steam\bin\cef\cef.win64\steamwebhelper.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+21272	16324	steamwebhelper.exe	27	1	2026-10-31T18:40:02Z	C:\Program Files (x86)\Steam\bin\cef\cef.win64\steamwebhelper.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+12368	10292	ChatGPT.exe	58	1	2026-10-31T18:40:12Z	C:\Program Files\WindowsApps\OpenAI.Codex_26.1027.3384.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe	RAREEEEES\nitoi	Medium	no	active	OK
+5296	12368	ChatGPT.exe	6	1	2026-10-31T18:40:13Z	C:\Program Files\WindowsApps\OpenAI.Codex_26.1027.3384.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe	RAREEEEES\nitoi	Medium	no	active	OK
+21780	5296	ChatGPT.exe	4	1	2026-10-31T18:40:13Z	C:\Program Files\WindowsApps\OpenAI.Codex_26.1027.3384.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe	RAREEEEES\nitoi	Medium	no	active	OK
+3004	12368	ChatGPT.exe	108	1	2026-10-31T18:40:14Z	C:\Program Files\WindowsApps\OpenAI.Codex_26.1027.3384.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe	RAREEEEES\nitoi	Low	no	active	OK
+19540	12368	ChatGPT.exe	27	1	2026-10-31T18:40:14Z	C:\Program Files\WindowsApps\OpenAI.Codex_26.1027.3384.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe	RAREEEEES\nitoi	Medium	no	active	OK
+4848	12368	ChatGPT.exe	12	1	2026-10-31T18:40:15Z	C:\Program Files\WindowsApps\OpenAI.Codex_26.1027.3384.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+27740	1756	svchost.exe	4	-	-	-	-	-	-	active	ACCESS_DENIED
+28556	12368	ChatGPT.exe	26	1	2026-10-31T18:40:39Z	C:\Program Files\WindowsApps\OpenAI.Codex_26.1027.3384.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+28540	12368	ChatGPT.exe	27	1	2026-10-31T18:40:39Z	C:\Program Files\WindowsApps\OpenAI.Codex_26.1027.3384.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+15220	12368	codex.exe	28	1	2026-10-31T18:40:41Z	C:\Users\nitoi\AppData\Local\OpenAI\Codex\bin\22cfb1d302613eae\codex.exe	RAREEEEES\nitoi	Medium	no	active	OK
+9736	15220	conhost.exe	2	1	2026-10-31T18:40:42Z	C:\Windows\System32\conhost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+20100	4284	AutoHotkey64.exe	2	1	2026-10-31T18:40:44Z	C:\Program Files\AutoHotkey\v2\AutoHotkey64.exe	RAREEEEES\nitoi	Medium	no	nonexistent	OK
+14488	12368	ChatGPT.exe	12	1	2026-10-31T18:40:46Z	C:\Program Files\WindowsApps\OpenAI.Codex_26.1027.3384.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe	RAREEEEES\nitoi	Low	no	active	OK
+26668	12368	ChatGPT.exe	28	1	2026-10-31T18:40:53Z	C:\Program Files\WindowsApps\OpenAI.Codex_26.1027.3384.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe	RAREEEEES\nitoi	Medium	no	active	OK
+17544	12368	ChatGPT.exe	25	1	2026-10-31T18:40:57Z	C:\Program Files\WindowsApps\OpenAI.Codex_26.1027.3384.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+27028	12368	codex-computer-use-swift.exe	45	1	2026-10-31T18:40:57Z	C:\Users\nitoi\AppData\Local\OpenAI\Codex\runtimes\cua_node\5c41f77a7900391c\bin\node_modules\@oai\sky\bin\windows\swift\x64\codex-computer-use-swift.exe	RAREEEEES\nitoi	Medium	no	active	OK
+27008	27028	conhost.exe	2	1	2026-10-31T18:40:58Z	C:\Windows\System32\conhost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+19732	12368	ChatGPT.exe	23	1	2026-10-31T18:40:58Z	C:\Program Files\WindowsApps\OpenAI.Codex_26.1027.3384.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+4964	12368	ChatGPT.exe	25	1	2026-10-31T18:41:05Z	C:\Program Files\WindowsApps\OpenAI.Codex_26.1027.3384.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+28680	12368	ChatGPT.exe	29	1	2026-10-31T18:41:06Z	C:\Program Files\WindowsApps\OpenAI.Codex_26.1027.3384.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+11020	12368	ChatGPT.exe	23	1	2026-10-31T18:41:08Z	C:\Program Files\WindowsApps\OpenAI.Codex_26.1027.3384.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+29048	12368	node.exe	13	1	2026-10-31T18:41:20Z	C:\Users\nitoi\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\bin\node.exe	RAREEEEES\nitoi	Medium	no	active	OK
+22880	29048	conhost.exe	2	1	2026-10-31T18:41:21Z	C:\Windows\System32\conhost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+22672	16324	steamwebhelper.exe	24	1	2026-10-31T18:41:22Z	C:\Program Files (x86)\Steam\bin\cef\cef.win64\steamwebhelper.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+29620	12368	codex.exe	25	1	2026-10-31T18:41:24Z	C:\Users\nitoi\AppData\Local\OpenAI\Codex\bin\22cfb1d302613eae\codex.exe	RAREEEEES\nitoi	Medium	no	active	OK
+3352	29620	conhost.exe	2	1	2026-10-31T18:41:24Z	C:\Windows\System32\conhost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+28140	12368	ChatGPT.exe	13	1	2026-10-31T18:41:39Z	C:\Program Files\WindowsApps\OpenAI.Codex_26.1027.3384.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+27000	1756	svchost.exe	9	-	-	-	-	-	-	active	ACCESS_DENIED
+27836	17756	OneDrive.Sync.Service.exe	26	1	2026-10-31T18:41:40Z	C:\Program Files\Microsoft OneDrive\26.189.0928.0009\OneDrive.Sync.Service.exe	RAREEEEES\nitoi	Medium	no	nonexistent	OK
+2740	1756	svchost.exe	13	-	-	-	-	-	-	active	ACCESS_DENIED
+9432	1756	svchost.exe	9	-	-	-	-	-	-	active	ACCESS_DENIED
+5300	28300	MoNotificationUx.exe	3	1	2026-10-31T18:41:53Z	C:\Windows\UUS\amd64\MoNotificationUx.exe	RAREEEEES\nitoi	Medium	no	nonexistent	OK
+10132	21756	asus_framework.exe	23	1	2026-10-31T18:42:07Z	C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe	-	-	-	active	PARTIAL
+27612	10132	ArmourySwAgent.exe	7	1	2026-10-31T18:44:39Z	C:\Program Files (x86)\ASUS\ArmouryDevice\dll\SwAgent\ArmourySwAgent.exe	RAREEEEES\nitoi	High	yes	active	OK
+6012	20144	zen.exe	6	1	2026-10-31T18:45:32Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Low	no	active	OK
+16444	1928	RuntimeBroker.exe	4	1	2026-10-31T18:45:32Z	C:\Windows\System32\RuntimeBroker.exe	RAREEEEES\nitoi	Medium	no	active	OK
+3152	20144	zen.exe	32	1	2026-10-31T18:46:29Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+2904	1928	AppActions.exe	7	1	2026-10-31T18:47:01Z	C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\AppActions.exe	RAREEEEES\nitoi	Medium	no	active	OK
+15984	1756	svchost.exe	16	-	-	-	-	-	-	active	ACCESS_DENIED
+26756	1756	svchost.exe	6	-	-	-	-	-	-	active	ACCESS_DENIED
+27540	1928	UserOOBEBroker.exe	3	1	2026-10-31T18:48:24Z	C:\Windows\System32\oobe\UserOOBEBroker.exe	RAREEEEES\nitoi	Medium	no	active	OK
+11684	1928	ShellExperienceHost.exe	34	1	2026-10-31T18:49:00Z	C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe	RAREEEEES\nitoi	Low	no	active	OK
+27884	1928	RuntimeBroker.exe	4	1	2026-10-31T18:49:00Z	C:\Windows\System32\RuntimeBroker.exe	RAREEEEES\nitoi	Medium	no	active	OK
+7552	1928	SDXHelper.exe	20	1	2026-10-31T18:52:02Z	C:\Program Files\Microsoft Office\root\Office16\SDXHelper.exe	RAREEEEES\nitoi	Medium	no	active	OK
+29720	20144	zen.exe	28	1	2026-10-31T18:52:15Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+29188	20144	zen.exe	29	1	2026-10-31T18:52:15Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+10252	1928	SystemSettings.exe	62	1	2026-10-31T18:54:01Z	C:\Windows\ImmersiveControlPanel\SystemSettings.exe	RAREEEEES\nitoi	Medium	no	active	OK
+30708	1928	ApplicationFrameHost.exe	19	1	2026-10-31T18:54:01Z	C:\Windows\System32\ApplicationFrameHost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+26200	1756	svchost.exe	1	-	-	-	-	-	-	active	ACCESS_DENIED
+17512	1756	svchost.exe	5	1	2026-10-31T18:54:07Z	C:\Windows\System32\svchost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+29604	1756	svchost.exe	18	-	-	-	-	-	-	active	ACCESS_DENIED
+6684	1756	svchost.exe	16	-	-	-	-	-	-	active	ACCESS_DENIED
+26736	20144	zen.exe	32	1	2026-10-31T19:02:47Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+8452	20144	zen.exe	27	1	2026-10-31T19:14:50Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+25676	20144	zen.exe	31	1	2026-10-31T19:19:50Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+28988	20144	zen.exe	28	1	2026-10-31T19:21:30Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+22952	1756	svchost.exe	18	-	-	-	-	-	-	active	ACCESS_DENIED
+2732	20144	zen.exe	29	1	2026-10-31T19:27:31Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+29576	2584	taskhostw.exe	6	1	2026-10-31T19:32:02Z	C:\Windows\System32\taskhostw.exe	RAREEEEES\nitoi	High	yes	active	OK
+9440	20144	zen.exe	27	1	2026-10-31T19:34:09Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+2392	20144	zen.exe	29	1	2026-10-31T19:36:00Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+27352	20144	zen.exe	27	1	2026-10-31T19:37:51Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+6528	20144	zen.exe	30	1	2026-10-31T19:38:11Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Low	no	active	OK
+23208	20144	zen.exe	27	1	2026-10-31T19:38:11Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+30288	1928	prevhost.exe	4	1	2026-10-31T19:38:34Z	C:\Windows\System32\prevhost.exe	RAREEEEES\nitoi	Low	no	active	OK
+11228	1928	DataExchangeHost.exe	9	1	2026-10-31T19:39:11Z	C:\Windows\System32\DataExchangeHost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+30816	29620	cmd.exe	1	1	2026-10-31T19:41:19Z	C:\Windows\System32\cmd.exe	RAREEEEES\nitoi	Medium	no	active	OK
+3684	29620	node_repl.exe	20	1	2026-10-31T19:41:19Z	C:\Users\nitoi\AppData\Local\OpenAI\Codex\runtimes\cua_node\5c41f77a7900391c\bin\node_repl.exe	RAREEEEES\nitoi	Medium	no	active	OK
+23900	3684	conhost.exe	2	1	2026-10-31T19:41:19Z	C:\Windows\System32\conhost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+27408	30816	conhost.exe	2	1	2026-10-31T19:41:19Z	C:\Windows\System32\conhost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+14272	30816	node.exe	9	1	2026-10-31T19:41:19Z	C:\Program Files\WindowsApps\OpenAI.Codex_26.1027.3384.0_x64__2p2nqsd0c76g0\app\resources\cua_node\bin\node.exe	RAREEEEES\nitoi	Medium	no	active	OK
+3120	29620	node.exe	9	1	2026-10-31T19:41:19Z	C:\Users\nitoi\AppData\Local\OpenAI\Codex\runtimes\cua_node\5c41f77a7900391c\bin\node.exe	RAREEEEES\nitoi	Medium	no	active	OK
+16504	3120	conhost.exe	2	1	2026-10-31T19:41:19Z	C:\Windows\System32\conhost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+26016	3120	node_repl.exe	18	1	2026-10-31T19:41:19Z	C:\Users\nitoi\AppData\Local\OpenAI\Codex\runtimes\cua_node\5c41f77a7900391c\bin\node_repl.exe	RAREEEEES\nitoi	Medium	no	active	OK
+384	9492	SearchProtocolHost.exe	6	-	-	-	-	-	-	active	ACCESS_DENIED
+13164	20144	zen.exe	26	1	2026-10-31T19:41:33Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+31580	3684	node.exe	15	1	2026-10-31T19:42:02Z	C:\Users\nitoi\AppData\Local\OpenAI\Codex\runtimes\cua_node\5c41f77a7900391c\bin\node.exe	RAREEEEES\nitoi	Medium	no	active	OK
+31588	3684	node.exe	10	1	2026-10-31T19:42:02Z	C:\Users\nitoi\AppData\Local\OpenAI\Codex\runtimes\cua_node\5c41f77a7900391c\bin\node.exe	RAREEEEES\nitoi	Medium	no	active	OK
+27124	9492	SearchFilterHost.exe	4	-	-	-	-	-	-	active	ACCESS_DENIED
+23672	20144	zen.exe	26	1	2026-10-31T19:43:24Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+30616	10908	devenv.exe	112	1	2026-10-31T19:44:04Z	C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\devenv.exe	RAREEEEES\nitoi	Medium	no	active	OK
+17852	1928	smartscreen.exe	4	1	2026-10-31T19:44:04Z	C:\Windows\System32\smartscreen.exe	RAREEEEES\nitoi	Medium	no	active	OK
+30052	26124	PerfWatson2.exe	25	1	2026-10-31T19:44:06Z	C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\PerfWatson2.exe	RAREEEEES\nitoi	Medium	no	nonexistent	OK
+27096	30616	Microsoft.ServiceHub.Controller.exe	19	1	2026-10-31T19:44:06Z	C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Controller\Microsoft.ServiceHub.Controller.exe	RAREEEEES\nitoi	Medium	no	active	OK
+19936	27096	ServiceHub.VSDetouredHost.exe	20	1	2026-10-31T19:44:08Z	C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.dotnet.x64\ServiceHub.VSDetouredHost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+31596	27096	ServiceHub.Host.dotnet.x64.exe	19	1	2026-10-31T19:44:08Z	C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.dotnet.x64\ServiceHub.Host.dotnet.x64.exe	RAREEEEES\nitoi	Medium	no	active	OK
+27544	27096	ServiceHub.IdentityHost.exe	33	1	2026-10-31T19:44:09Z	C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.dotnet.x64\ServiceHub.IdentityHost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+20576	31596	OpenConsole.exe	5	1	2026-10-31T19:44:09Z	C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\Terminal\ServiceHub\os64\OpenConsole.exe	RAREEEEES\nitoi	Medium	no	active	OK
+25856	31596	powershell.exe	12	1	2026-10-31T19:44:09Z	C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe	RAREEEEES\nitoi	Medium	no	active	OK
+7480	27096	ServiceHub.Host.dotnet.x64.exe	26	1	2026-10-31T19:44:13Z	C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.dotnet.x64\ServiceHub.Host.dotnet.x64.exe	RAREEEEES\nitoi	Medium	no	active	OK
+31796	1756	svchost.exe	12	-	-	-	-	-	-	active	ACCESS_DENIED
+32376	27096	ServiceHub.ThreadedWaitDialog.exe	31	1	2026-10-31T19:44:17Z	C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.dotnet.x64\ServiceHub.ThreadedWaitDialog.exe	RAREEEEES\nitoi	Medium	no	active	OK
+32612	9492	SearchFilterHost.exe	4	-	-	-	-	-	-	active	ACCESS_DENIED
+31952	27096	ServiceHub.IntellicodeModelService.exe	10	1	2026-10-31T19:44:22Z	C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.IntellicodeModelService.exe	RAREEEEES\nitoi	Medium	no	active	OK
+32224	27096	ServiceHub.IndexingService.exe	24	1	2026-10-31T19:44:22Z	C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.dotnet.x64\ServiceHub.IndexingService.exe	RAREEEEES\nitoi	Medium	no	active	OK
+32700	30616	copilot-language-server.exe	15	1	2026-10-31T19:44:23Z	C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Copilot\service\dist\copilot-language-server.exe	RAREEEEES\nitoi	Medium	no	active	OK
+32680	30616	vshost.exe	1	1	2026-10-31T19:44:23Z	C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\vshost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+32176	32700	conhost.exe	2	1	2026-10-31T19:44:24Z	C:\Windows\System32\conhost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+32980	32928	vctip.exe	20	1	2026-10-31T19:44:28Z	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\bin\Hostx64\x64\vctip.exe	RAREEEEES\nitoi	Medium	no	nonexistent	OK
+33208	27096	ServiceHub.Host.AnyCPU.exe	16	1	2026-10-31T19:44:30Z	C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.Host.AnyCPU.exe	RAREEEEES\nitoi	Medium	no	active	OK
+33432	27096	ServiceHub.TestWindowStoreHost.exe	19	1	2026-10-31T19:44:31Z	C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.dotnet.x64\ServiceHub.TestWindowStoreHost.exe	RAREEEEES\nitoi	Medium	no	active	OK
+34384	20144	zen.exe	29	1	2026-10-31T19:45:15Z	C:\Program Files\Zen Browser\zen.exe	RAREEEEES\nitoi	Untrusted	no	active	OK
+34292	1928	backgroundTaskHost.exe	10	1	2026-10-31T19:45:40Z	C:\Windows\System32\backgroundTaskHost.exe	RAREEEEES\nitoi	Low	no	active	OK
+34308	1928	backgroundTaskHost.exe	12	1	2026-10-31T19:45:40Z	C:\Windows\System32\backgroundTaskHost.exe	RAREEEEES\nitoi	Low	no	active	OK
+34436	1928	backgroundTaskHost.exe	7	1	2026-10-31T19:45:40Z	C:\Windows\System32\backgroundTaskHost.exe	RAREEEEES\nitoi	Low	no	active	OK
+29828	1928	RuntimeBroker.exe	9	1	2026-10-31T19:45:40Z	C:\Windows\System32\RuntimeBroker.exe	RAREEEEES\nitoi	Medium	no	active	OK
+33892	32680	vcpkgsrv.exe	11	1	2026-10-31T19:45:42Z	C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VC\vcpackages\x86\vcpkgsrv.exe	RAREEEEES\nitoi	Medium	no	active	OK
+14420	32680	vcpkgsrv.exe	7	1	2026-10-31T19:45:43Z	C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VC\vcpackages\x86\vcpkgsrv.exe	RAREEEEES\nitoi	Medium	no	active	OK
+19820	32680	vcpkgsrv.exe	11	1	2026-10-31T19:45:47Z	C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VC\vcpackages\x86\vcpkgsrv.exe	RAREEEEES\nitoi	Medium	no	active	OK
+4876	31580	t3.exe	3	1	2026-10-31T19:46:16Z	C:\Users\nitoi\Documents\Codex\2026-10-31\new-chat\T3\build\t3.exe	RAREEEEES\nitoi	Medium	no	active	OK
+34548	4876	conhost.exe	3	1	2026-10-31T19:46:16Z	C:\Windows\System32\conhost.exe	RAREEEEES\nitoi	Medium	no	active	OK
